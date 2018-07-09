@@ -1,0 +1,1 @@
+# Docker App Manager Base Image
